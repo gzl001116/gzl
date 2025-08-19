@@ -2,40 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/gzl/zh/categories/</loc>
+    <loc>https://gzl001116.github.io/gzl/zh/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/gzl/categories/"
+                href="https://gzl001116.github.io/gzl/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-CN"
-                href="http://localhost:1313/gzl/zh/categories/"
+                href="https://gzl001116.github.io/gzl/zh/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/gzl/zh/tags/</loc>
+    <loc>https://gzl001116.github.io/gzl/zh/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/gzl/tags/"
+                href="https://gzl001116.github.io/gzl/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-CN"
-                href="http://localhost:1313/gzl/zh/tags/"
+                href="https://gzl001116.github.io/gzl/zh/tags/"
                 />
   </url><url>
-    <loc>http://localhost:1313/gzl/zh/</loc>
+    <loc>https://gzl001116.github.io/gzl/zh/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:1313/gzl/"
+                href="https://gzl001116.github.io/gzl/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-CN"
-                href="http://localhost:1313/gzl/zh/"
+                href="https://gzl001116.github.io/gzl/zh/"
                 />
   </url>
 </urlset>
